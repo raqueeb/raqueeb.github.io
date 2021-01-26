@@ -1640,14 +1640,13 @@
 			transition: none !important;
 		}
 
-/* Type */
+/* Type  letter-spacing: 0.025em;  */
 
 	body, input, select, textarea {
 		color: #ffffff;
 		font-family: "SiyamRupali";
 		font-size: 17pt;
 		font-weight: 300;
-		letter-spacing: 0.025em;
 		line-height: 1.65;
 	}
 
@@ -1853,7 +1852,6 @@
 		header.major > p {
 			font-size: 0.7em;
 			font-weight: 600;
-			letter-spacing: 0.25em;
 			margin-bottom: 0;
 			text-transform: uppercase;
 		}
@@ -1937,7 +1935,6 @@
 		display: block;
 		font-size: 0.8em;
 		font-weight: 600;
-		letter-spacing: 0.25em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
 	}
@@ -2552,7 +2549,6 @@
 		font-size: 0.8em;
 		font-weight: 600;
 		height: 3.5em;
-		letter-spacing: 0.25em;
 		line-height: 3.5em;
 		padding: 0 1.75em;
 		text-align: center;
@@ -3154,7 +3150,6 @@
 		font-weight: 600;
 		height: 3.25em;
 		left: 0;
-		letter-spacing: 0.25em;
 		line-height: 3.25em;
 		margin: 0;
 		position: fixed;
@@ -3513,7 +3508,6 @@
 				#banner > .inner .content p {
 					font-size: 0.7em;
 					font-weight: 600;
-					letter-spacing: 0.25em;
 					text-transform: uppercase;
 				}
 
@@ -3898,7 +3892,6 @@
 						display: block;
 						font-size: 0.8em;
 						font-weight: 600;
-						letter-spacing: 0.25em;
 						line-height: 4em;
 						text-decoration: none;
 						text-transform: uppercase;

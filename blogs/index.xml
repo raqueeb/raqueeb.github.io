@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lifestyle on রকিব</title>
+    <title>কৃত্রিম বুদ্ধিমত্তার on রকিব</title>
     <link>https://raqueeb.github.io/test/blogs/</link>
-    <description>Recent content in Lifestyle on রকিব</description>
+    <description>Recent content in কৃত্রিম বুদ্ধিমত্তার on রকিব</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bn</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="https://raqueeb.github.io/test/blogs/index.xml" rel="self" type="application/rss+xml" />
@@ -35,12 +35,12 @@
     </item>
     
     <item>
-      <title>Ipsum</title>
-      <link>https://raqueeb.github.io/test/blogs/ipsum/</link>
+      <title>কৃত্রিম বুদ্ধিমত্তার</title>
+      <link>https://raqueeb.github.io/test/blogs/%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%AC%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://raqueeb.github.io/test/blogs/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+      <guid>https://raqueeb.github.io/test/blogs/%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%AC%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0/</guid>
+      <description>কৃত্রিম বুদ্ধিমত্তার যে অংশে মানুষ এবং যন্ত্রের মধ্যে যোগাযোগের ব্যাপারটা চলে আসে - সেখানেই দরকার ‘ন্যাচারাল ল্যাঙ্গুয়েজ প্রোসেসিং’। পৃথিবীর প্রায় প্রতিটা ‘বুদ্ধিমান’ প্রোডাক্ট তৈরির পেছনে সেটা কতো সহজে মানুষের সাথে ‘ইন্টারঅ্যাক্ট’ করতে পারে - তা হন্যে হয়ে খুঁজছে মানুষ। এই যোগসুত্রটা তৈরি হয়েছে মানুষের ভাষাকে ঘিরে। যন্ত্র কী মানুষের ভাষা বোঝে? আর সেই প্রযুক্তিকে বাংলা ভাষায় কিভাবে ব্যবহার করা যায় - সেটাই এই বইয়ের ভেতরের গল্প।</description>
     </item>
     
   </channel>
