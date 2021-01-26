@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on রকিব</title>
-    <link>https://raqueeb.github.io/test/tags/</link>
-    <description>Recent content in Tags on রকিব</description>
+    <title>Tags on উৎকর্ষের সন্ধানে</title>
+    <link>https://r-hassan.github.io/tags/</link>
+    <description>Recent content in Tags on উৎকর্ষের সন্ধানে</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>bn</language><atom:link href="https://raqueeb.github.io/test/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>bn</language><atom:link href="https://r-hassan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
