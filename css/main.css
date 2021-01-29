@@ -1646,7 +1646,7 @@
 		font-family: "SiyamRupali";
 		font-size: 17pt;
 		font-weight: 300;
-		letter-spacing: 0.025em;
+		letter-spacing: 0.015em; 		/* 0.025em */
 		line-height: 1.65;
 	}
 
@@ -1851,7 +1851,7 @@
 
 		header.major > p {
 			font-size: 0.7em;
-			font-weight: 600;
+			font-weight: 400; 	/* 600 */
 /*			letter-spacing: 0.25em; */
 			letter-spacing: 0.15em;
 			margin-bottom: 0;
@@ -3154,7 +3154,7 @@
 		font-weight: 600;
 		height: 3.25em;
 		left: 0;
-		letter-spacing: 0.15em;		/* 0.25em */
+		letter-spacing: 0.10em;		/* 0.25em */
 		line-height: 3.25em;
 		margin: 0;
 		position: fixed;
@@ -3511,9 +3511,9 @@
 				}
 
 				#banner > .inner .content p {
-					font-size: 0.7em;
-					font-weight: 600;
-					letter-spacing: 0.15em;	/* 0.25em */
+					font-size: 0.9em;	/* 0.7em ;*/
+					font-weight: 400;  /* 600 */
+					letter-spacing: 0.10em;	/* 0.25em */
 					text-transform: uppercase;
 				}
 
